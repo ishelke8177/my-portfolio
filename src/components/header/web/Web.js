@@ -14,11 +14,11 @@ const Web = () => {
           <i class="fi fi-rr-laptop"></i>Skills
         </a>
       </div>
-      <div className="web-option">
+      {/* <div className="web-option">
         <a href="#work">
           <i class="fi fi-rr-briefcase"></i>Work
         </a>
-      </div>
+      </div> */}
       <div className="web-option">
         <a href="#contact">
           <i class="fi fi-rr-user"></i>Contact

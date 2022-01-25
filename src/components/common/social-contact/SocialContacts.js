@@ -4,7 +4,7 @@ import { SocialData } from '../../../data/Social';
 
 const SocialContacts = () => {
   return (
-    <div>
+    <div className="social-contact">
       {SocialData.map((item) => {
         return (
           <a href={item.link}>

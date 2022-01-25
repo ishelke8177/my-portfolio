@@ -3,7 +3,7 @@ import './body.css';
 import About from './about/About';
 import Projects from './projects/Projects';
 import Skills from './skills/Skills';
-import Work from './work/Work';
+// import Work from './work/Work';
 import Contact from './contact/Contact';
 
 const Body = () => {
@@ -18,9 +18,9 @@ const Body = () => {
       <section id="skills">
         <Skills />
       </section>
-      <section id="work">
+      {/* <section id="work">
         <Work />
-      </section>
+      </section> */}
       <section id="contact">
         <Contact />
       </section>

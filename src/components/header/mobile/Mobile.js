@@ -18,11 +18,11 @@ const Mobile = ({ isOpen, setIsOpen }) => {
             <i class="fi fi-rr-laptop"></i>Skills
           </a>
         </div>
-        <div className="mobile-option">
+        {/* <div className="mobile-option">
           <a href="#work">
             <i class="fi fi-rr-briefcase"></i>Work
           </a>
-        </div>
+        </div> */}
         <div className="mobile-option">
           <a href="#contact">
             <i class="fi fi-rr-user"></i>Contact
