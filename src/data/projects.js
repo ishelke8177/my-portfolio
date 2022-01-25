@@ -5,7 +5,7 @@ export const ProjectData = [
     about: 'Social Media application to connect various developers',
     tags: ['React', 'Redux', 'Node', 'Express', 'MongoDB'],
     github: 'https://github.com/ishelke8177/devConnector',
-    image: require('../../../assets/project-images/DevConnector.JPG'),
+    image: require('../assets/project-images/DevConnector.JPG'),
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const ProjectData = [
     tags: ['React', 'Redux', 'GithubAPI'],
     demo: 'https://flamboyant-wozniak-428349.netlify.app/',
     github: 'https://github.com/ishelke8177/github-finder',
-    image: require('../../../assets/project-images/GithubFinder.JPG'),
+    image: require('../assets/project-images/GithubFinder.JPG'),
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ export const ProjectData = [
     tags: ['React', 'Redux', 'JSON Server', 'Materialize-css'],
     // demo: 'dfsaf',
     github: 'https://github.com/ishelke8177/it-logger',
-    image: require('../../../assets/project-images/IT-Logger.JPG'),
+    image: require('../assets/project-images/IT-Logger.JPG'),
   },
   // {
   //   id: 4,
@@ -62,6 +62,6 @@ export const ProjectData = [
     tags: ['HTML', 'CSS', 'Django'],
     demo: 'http://ishwarshelke11.pythonanywhere.com/',
     github: 'https://github.com/ishelke8177/todoapp-django',
-    image: require('../../../assets/project-images/todo-app-django.JPG'),
+    image: require('../assets/project-images/todo-app-django.JPG'),
   },
 ];

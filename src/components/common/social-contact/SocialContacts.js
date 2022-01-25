@@ -1,6 +1,6 @@
 import React from 'react';
 import './social-contact.css';
-import { SocialData } from '../../body/data/Social';
+import { SocialData } from '../../../data/Social';
 
 const SocialContacts = () => {
   return (
