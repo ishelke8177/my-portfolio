@@ -27,15 +27,16 @@ export const ProjectData = [
     github: 'https://github.com/ishelke8177/it-logger',
     image: require('../assets/project-images/IT-Logger.JPG'),
   },
-  // {
-  //   id: 4,
-  //   title: 'Todo App',
-  //   about: 'It is a basic MERN app to keep track of daily tasks',
-  //   tags: ['React', 'Redux', 'Node', 'MongoDB', 'Materialize-css'],
-  //   // demo: 'dfsaf',
-  //   github: 'https://github.com/ishelke8177/todoapp-mern',
-  //   image: 'ndsfkjgdfk_url',
-  // },
+  {
+    id: 4,
+    title: 'Ecommerce-API',
+    about:
+      'Created backend api for ecommerce application and tested it using postman',
+    tags: ['Node', 'Express', 'MongoDB', 'Postman'],
+
+    github: 'https://github.com/ishelke8177/todoapp-mern',
+    image: require('../assets/project-images/ecommerceapi.JPG'),
+  },
   // {
   //   id: 5,
   //   title: 'Corona Tracker',
